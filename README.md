@@ -4,9 +4,13 @@ Uploading files using Python and Flask
 This is a simple python script to upload file or files to server using Flask.
 The script lacks CSS and styling features as it is meant for illustration and getting started purposes
 
-Update:
-app_display_image.py: is updated code to display uploaded images.
-Usage: Change the html file in templates folder to complete.html.
+####Update:
+- app_display_image.py: is updated code to display uploaded images. 
 
-This update is best complemented with the video tutorial in my channel here: https://youtu.be/Y2fMCxLz6wM
+####Usage: 
+- Best used with app.py
+- Using app_basic.py implements just a basic upload without any further mods like displaying uploaded image and such.
+- If using app_display_image.py Change the html file in templates folder to complete.html.
+
+This code is best complemented with the video tutorials in my channel here: https://www.youtube.com/playlist?list=PL-cS6ZwDCr6rPTisIHeGtUfzN0L3USZIc
 
